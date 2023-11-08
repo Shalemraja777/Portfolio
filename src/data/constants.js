@@ -133,7 +133,7 @@ export const experiences = [
       "Kali Linux",
       "Nikto",
     ],
-    doc: "https://res.cloudinary.com/digp6qeaq/image/upload/v1699450087/Screenshot_2023-08-14_125224_zrllfq.png",
+    doc: "https://res.cloudinary.com/digp6qeaq/image/upload/v1699451176/Screenshot_2023-09-12_104234_imvr8e.png",
   },
 ];
 
@@ -215,19 +215,21 @@ export const projects = [
     id: 2,
     title: "ToDos",
     description:
-      "It is a comprehensive todo management tool designed to enhance productivity",
+      "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
     image:
-      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448651/Screenshot_2023-11-04_211152_cx8r6v.png",
+      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699451481/Screenshot_2023-11-08_192033_lq1sv1.png",
     tags: [
       "Html",
       "CSS",
       "Javascript",
+      "Reactjs",
+      "Routing",
       "Bootstrap",
-      "DOM Operations",
+      
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/Shalemraja777/Portfolio",
+    webapp: "https://shalemraja777.github.io/Portfolio/",
   },
 ];
 
