@@ -174,7 +174,7 @@ export const projects = [
     description:
       "Nxt Trendz is web application which is a clone for Ecommerce applications like Amazon,Flipkart etc...",
     image:
-      "https://imgtr.ee/images/2023/11/04/f8f429bbd58da2c61ef63aaa94d6eba8.png",
+      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448650/Screenshot_2023-11-04_190334_si2h7s.png",
     tags: [
       "React Js",
       "MongoDb",
