@@ -197,7 +197,7 @@ export const projects = [
     description:
       "It is a Dashboard in which we can we view scores of different ipl teams and we can compare their scores and can know much about points of their team.",
     image:
-      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448651/Screenshot_2023-11-04_211152_cx8r6v.png",
+      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448651/Screenshot_2023-11-04_190751_psrupb.png",
     tags: [
       "React Js",
       "Node Js",
@@ -217,7 +217,7 @@ export const projects = [
     description:
       "It is a comprehensive todo management tool designed to enhance productivity",
     image:
-      "https://imgtr.ee/images/2023/11/04/800df634b70d97dca20fe0543f9657d4.png",
+      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448651/Screenshot_2023-11-04_211152_cx8r6v.png",
     tags: [
       "Html",
       "CSS",
