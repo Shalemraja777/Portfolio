@@ -188,7 +188,7 @@ export const projects = [
       "JWT Token",
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/Shalemraja777/Nxt-Trendz-Ecommerce-Application",
     webapp: "",
   },
   {
@@ -208,12 +208,12 @@ export const projects = [
       "Bootstrap",
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/Shalemraja777/IPL_DASHBOARD",
     webapp: "",
   },
   {
     id: 2,
-    title: "ToDos",
+    title: "Portfolio",
     description:
       "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
     image:
