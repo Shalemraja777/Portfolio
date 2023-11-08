@@ -66,17 +66,17 @@ export const skills = [
       {
         name: "Python",
         image:
-          "https://imgtr.ee/images/2023/10/21/f42ac435120be0500e1106bed6eb3bbf.png",
+          "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448621/images_cb8hha.png",
       },
       {
         name: "MySQL",
         image:
-          "https://imgtr.ee/images/2023/10/21/9e45fadd7107967f8e769ce53eb93660.png",
+          "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448621/mysql_cx6yh0.png",
       },
       {
         name: "MongoDB",
         image:
-          "https://imgtr.ee/images/2023/10/21/e855b68a56033e506a3240a10c4d9497.png",
+          "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448620/mongodb_pg0ubv.png",
       },
       {
         name: "Firebase",
@@ -100,7 +100,7 @@ export const skills = [
       {
         name: "Docker",
         image:
-          "https://imgtr.ee/images/2023/10/21/2401785c3f9a46d697f56d1b8897ab4d.png",
+          "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448620/Docker-Logo_ajcqlu.png",
       },
       {
         name: "VS Code",
@@ -110,7 +110,7 @@ export const skills = [
       {
         name: "Adobe Photoshop",
         image:
-          "https://imgtr.ee/images/2023/10/21/eec5e045438b45ad18b1d815f13579c4.png",
+          "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448620/photoshop_f8vsor.png",
       },
       {
         name: "Figma",
@@ -124,7 +124,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://imgtr.ee/images/2023/11/04/3326c0715166c5d079484b4a7293142f.png",
+    img: "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448619/Webo.Fortinet-1014x1024_jhxgja.png",
     role: "Network Security Associate Virtual Internship",
     company: "Fortinet",
     date: "May 2023 - July 2023",
@@ -133,14 +133,14 @@ export const experiences = [
       "Kali Linux",
       "Nikto",
     ],
-    doc: "https://imgtr.ee/images/2023/11/04/e2679fe43281645444aa714ac4bcdb5b.png",
+    doc: "https://res.cloudinary.com/digp6qeaq/image/upload/v1699450087/Screenshot_2023-08-14_125224_zrllfq.png",
   },
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://imgtr.ee/images/2023/11/04/5745ebe573c8f71b1b48579b2d53dc7f.png",
+    img: "https://res.cloudinary.com/digp6qeaq/image/upload/v1699450227/5a90dd5a949b3642cc7651c416a2189018dd8c83-402x396_uz1tga.png",
     school: "Gayatri Vidya Parishad College of Engineering(Autonomous),Visakhapatnam",
     date: "2020 - 2024",
     grade: "8.45 CGPA",
@@ -149,7 +149,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://imgtr.ee/images/2023/11/04/296fa8a4e82fad25b3dd016dc28c0b04.jpeg",
+    img: "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448393/sasi_vgdz4b.jpg",
     school: "Sasi Educational Institutes,Velivennu",
     date: "2018 - 2020",
     grade: "96.4%",
@@ -158,7 +158,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://imgtr.ee/images/2023/11/04/296fa8a4e82fad25b3dd016dc28c0b04.jpeg",
+    img: "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448393/sasi_vgdz4b.jpg",
     school: "Sasi Educational Institutes,Velivennu",
     date: "2016 - 2018",
     grade: "95%",
@@ -197,7 +197,7 @@ export const projects = [
     description:
       "It is a Dashboard in which we can we view scores of different ipl teams and we can compare their scores and can know much about points of their team.",
     image:
-      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448651/Screenshot_2023-11-04_190751_psrupb.png",
+      "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448651/Screenshot_2023-11-04_211152_cx8r6v.png",
     tags: [
       "React Js",
       "Node Js",
