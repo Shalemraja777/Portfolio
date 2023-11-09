@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Shalemraja777",
   resume:
-    "https://drive.google.com/file/d/1XmV6QkkNOu47zx6SUIcgWs6Ra-08_bVi/view?usp=sharing",
+    "https://drive.google.com/file/d/1bJnUqZYc83g7hq591X01WnVy_rLMa4ey/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shalem-raja-dandamudi/",
   twitter: "https://twitter.com/dandamudi_raja",
   insta: "https://www.instagram.com/_raja_chowdary_/",
@@ -128,7 +128,7 @@ export const experiences = [
     role: "Network Security Associate Virtual Internship",
     company: "Fortinet",
     date: "May 2023 - July 2023",
-    desc: "Worked Mainly on Nikto tool for checking and protecting websites from vulnerable attacks. Nikto is an open-source software written in Perl, designed for the purpose of scanning web servers to identify vulnerabilities that could potentially compromise server security. Checked vunerablities of a websites like anti-clickjacking etc amd resolved few vunlerabilities. Resolved anti-clickjacking vulnerability by modifying the .htacess file in the web server.",
+    desc: "Worked Mainly on Nikto tool for checking and protecting websites from vulnerable attacks. Nikto is an open-source software written in Perl, designed for the purpose of scanning web servers to identify vulnerabilities that could potentially compromise server security. Checked vunerablities of a websites like anti-clickjacking etc and resolved few vunlerabilities. Resolved anti-clickjacking vulnerability by modifying the .htacess file in the web server.",
     skills: [
       "Kali Linux",
       "Nikto",
