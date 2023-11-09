@@ -172,7 +172,7 @@ export const projects = [
     id: 0,
     title: "Nxt Trendz",
     description:
-      "Nxt Trendz is web application which is a clone for Ecommerce applications like Amazon,Flipkart etc...",
+      "Nxt Trendz is web application which is a clone for Ecommerce applications like Amazon,Flipkart etc...For logging into NxtTrendzPrime account(username: raja , password: raja@2021) and for logging into NxtTrendz account(username: rahul , password: rahul@2021)",
     image:
       "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448650/Screenshot_2023-11-04_190334_si2h7s.png",
     tags: [
@@ -189,13 +189,13 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Shalemraja777/Nxt-Trendz-Ecommerce-Application",
-    webapp: "",
+    webapp: " https://shalemraja777.github.io/Nxt-Trendz-Ecommerce-Application/",
   },
   {
     id: 1,
     title: "Ipl Dashboard",
     description:
-      "It is a Dashboard in which we can we view scores of different ipl teams and we can compare their scores and can know much about points of their team.",
+      "It is a Dashboard in which we can view details of different ipl teams and we can compare the win and loss of a particular team with other teams. And we can also know about man of the match and about the umpires. And also about the stadium where the match is going on.",
     image:
       "https://res.cloudinary.com/digp6qeaq/image/upload/v1699448651/Screenshot_2023-11-04_190751_psrupb.png",
     tags: [
@@ -209,7 +209,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Shalemraja777/IPL_DASHBOARD",
-    webapp: "",
+    webapp: "https://shalemraja777.github.io/IPL-DASHBOARD/",
   },
   {
     id: 2,
