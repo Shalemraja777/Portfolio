@@ -128,7 +128,7 @@ export const experiences = [
     role: "Network Security Associate Virtual Internship",
     company: "Fortinet",
     date: "May 2023 - July 2023",
-    desc: "Worked Mainly on Nikto tool for checking and protecting websites from vulnerable attacks.",
+    desc: "Worked Mainly on Nikto tool for checking and protecting websites from vulnerable attacks. Nikto is an open-source software written in Perl, designed for the purpose of scanning web servers to identify vulnerabilities that could potentially compromise server security. Checked vunerablities of a websites like anti-clickjacking etc amd resolved few vunlerabilities. Resolved anti-clickjacking vulnerability by modifying the .htacess file in the web server.",
     skills: [
       "Kali Linux",
       "Nikto",
